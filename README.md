@@ -2,11 +2,11 @@
 
 2) Tansform Datsets:
 
-📍merged tables to help us modeling star schema for best performance in analysis.
-📍 created date dimension to track transactions over time.
-📍 updated datatypes.
-📍 removed nulls and unnecessary columns.
-📍 renamed tables and columns to be more meaningful.
+#📍merged tables to help us modeling star schema for best performance in analysis.
+#📍 created date dimension to track transactions over time.
+#📍 updated datatypes.
+#📍 removed nulls and unnecessary columns.
+#📍 renamed tables and columns to be more meaningful.
 
 3) Load dataset to power bi with direct query mode to be analysed.
 
